@@ -23,12 +23,7 @@ export default class DataList extends Component {
     constructor(props) {
         super(props);
         this.state = {
-          data : [
-            {id:"1", name:"abc", salary:"1222"},
-            {id:"1", name:"abc", salary:"1222"},
-            {id:"1", name:"abc", salary:"1222"},
-            {id:"1", name:"abc", salary:"1222"},
-          ]
+        
         }
     }
 
